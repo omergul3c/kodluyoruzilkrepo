@@ -20,3 +20,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/)
 
 ![image](\kodluyoruzilkrepo\markdown.png)
+
+# Patika.dev Profilim
+[profil linkim](https://app.patika.dev/omerrgulec)
